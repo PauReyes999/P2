@@ -1,8 +1,8 @@
-## Práctica 2 : INTERRUPCIONES
-# Introducción de la práctica
+# Práctica 2 : INTERRUPCIONES
+## Introducción de la práctica
 En esta segunda práctica se trabajan las interrupciones, donde dispondremos, además del microcontrolador ESP32.
 
-# Funcionamiento
+## Funcionamiento
 Descripción del Funcionamiento
 Generación de Interrupciones: Al conectar un cable entre el puerto G18 (GPIO 18) y GND en la ESP32, se generarán interrupciones cada vez que el circuito se cierre.
 Visualización de Interrupciones: Cada vez que se genera una interrupción, el programa incrementa un contador y muestra el número de presiones del botón en la salida serie. También se enciende un LED en el procesador para indicar la interrupción.
