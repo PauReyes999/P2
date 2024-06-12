@@ -7,7 +7,7 @@ Descripción del Funcionamiento
 Generación de Interrupciones: Al conectar un cable entre el puerto G18 (GPIO 18) y GND en la ESP32, se generarán interrupciones cada vez que el circuito se cierre.
 Visualización de Interrupciones: Cada vez que se genera una interrupción, el programa incrementa un contador y muestra el número de presiones del botón en la salida serie. También se enciende un LED en el procesador para indicar la interrupción.
 Desvinculación de Interrupciones: Pasado un minuto, las interrupciones en el pin GPIO 18 se desactivan.
-Salida en Serie
+
 El programa imprime la cantidad de veces que se ha presionado el botón:
 Button 1 has been pressed 1 times
 Button 1 has been pressed 2 times
