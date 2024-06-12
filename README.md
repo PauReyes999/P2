@@ -1,6 +1,6 @@
 # Práctica 2 : INTERRUPCIONES
 ## Introducción de la práctica
-En esta segunda práctica se trabajan las interrupciones, donde dispondremos, además del microcontrolador ESP32.
+En esta práctica se trabajan las interrupciones, donde dispondremos, además del microcontrolador ESP32.
 
 ## Funcionamiento
 Descripción del Funcionamiento
